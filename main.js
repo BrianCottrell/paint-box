@@ -1,4 +1,7 @@
-/*Box Draw*/
+/* Box Draw          */
+/* by Brian Cottrell */
+/* 10-06-2014        */
+
 /*VARIABLES*/
 var rows = 75;						//Sets number of rows on drawing board
 var columns = 75;					//Sets number of columns on drawing board
